@@ -1,21 +1,29 @@
-# Olá! Eu sou o Anderson 👋
+# Olá! Sou o Anderson 👋
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** estou em transição de carreira com foco em **Desenvolvimento Full Stack**. Atualmente, estudo e pratico **HTML**, **CSS** e **JavaScript**, construindo projetos e soluções que unem simplicidade e funcionalidade.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** estou em transição de carreira com foco em **Desenvolvimento Full Stack**.
+Atualmente, com conhecimentos em:
+- *HTML*
+- *CSS*
+- *JavaScript*
+- *Terminal Linux*
+- *Arquitetura de Software*
+- *Design Digital*
+- *Desenvolvendo novas habilidade de orientação a objetos com Java*
 
 ---
 
-## 💡 Sobre mim
+## Sobre mim
 
-- 👨‍💻 Criador da **nasu.dev – Construindo Soluções Digitais**
-- 📍 Vivendo no Japão com minha esposa e quatro filhas 🧡
-- 📚 Estudando para atuar como **desenvolvedor full stack**
-- 🌍 Interesse em atuar no **Brasil**, **remotamente** ou em **outros países**
+- Criador da **nasu.dev – Construindo Soluções Digitais**
+- Vivendo no Japão com minha esposa e quatro filhas.
+- Estudando para atuar como **desenvolvedor full stack**
+- Interesse em atuar no **Brasil**, **remotamente** ou em **outros países**
 
 ---
 
-## 🚀 Projetos em destaque
+##  Projetos
 
-📌 Em breve aqui você verá os primeiros projetos do **nasu.dev**, focados em soluções simples e úteis para o dia a dia.
+- Em breve aqui será disponibilizado projetos do **nasu.dev**, focados em soluções simples e úteis para o dia a dia.
 
 ---
 
