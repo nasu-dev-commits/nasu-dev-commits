@@ -1,10 +1,13 @@
-# Olá! Sou o Anderson 👋
+# Olá! Sou o Anderson!
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** estou em transição de carreira com foco em **Desenvolvimento Full Stack**.
+Vivendo no Japão com minha esposa e filhas.
+Estudante de **Análise e Desenvolvimento de Sistemas** em transição de carreira com foco em **Desenvolvimento Full Stack**.
 Atualmente, com conhecimentos em:
 - *HTML*
 - *CSS*
 - *JavaScript*
+- *Frameworks (Bootstrap, Tailwind)*
+- *Python*
 - *Terminal Linux*
 - *Arquitetura de Software*
 - *Design Digital*
@@ -12,26 +15,24 @@ Atualmente, com conhecimentos em:
 
 ---
 
-## Sobre mim
+## Profissional
 
-- Criador da **nasu.dev – Construindo Soluções Digitais**
-- Vivendo no Japão com minha esposa e quatro filhas.
-- Estudando para atuar como **desenvolvedor full stack**
+- Criador da **N-Soft.dev – Soluções Digitais**
 - Interesse em atuar no **Brasil**, **remotamente** ou em **outros países**
 
 ---
 
 ##  Projetos
 
-- Em breve aqui será disponibilizado projetos do **nasu.dev**, focados em soluções simples e úteis para o dia a dia.
+- Já disponível **N-Soft.dev**, focados em soluções digitais para autônomos, micro e pequenos empreendedores.
 
 ---
 
 ## 📫 Contato
 
-- ✉️ E-mail: [andersonnasu.dev@gmail.com](mailto:andersonnasu.dev@gmail.com)
+- ✉️ E-mail: [contato@n-soft.dev](mailto:contato@n-soft.dev)
 - 💼 LinkedIn: [linkedin.com/in/andersonnasu.dev](https://linkedin.com/in/andersonnasu.dev)
-- 🌐 Site: [nasu.dev](https://nasu.dev) (Em construção)
+- 🌐 Site: [n-soft.dev](https://n-soft.dev)
 
 ---
 
